@@ -8,9 +8,9 @@ The purpose was to streamline the site for search engine optimization, as well a
 
 #Project Notes
 
-#HTML- changed div elements to semantic HTML families to help with organization
+##HTML- changed div elements to semantic HTML families to help with organization
 
-#CSS- reduced down to parent elements to streamline code and simplify 
+##CSS- reduced down to parent elements to streamline code and simplify 
 
 #Website
 
